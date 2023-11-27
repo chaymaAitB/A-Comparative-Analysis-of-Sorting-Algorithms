@@ -17,6 +17,7 @@ This C program, with GNUPLOT, generates 3 graphs illustrating the performance of
    - Compile and run the main C file.
      ```bash
       gcc -o programme.exe .\08_application.c .\calculs.c .\methodesTri.c
+     ```bash
       .\programme.exe
      
 4. **Result:**
