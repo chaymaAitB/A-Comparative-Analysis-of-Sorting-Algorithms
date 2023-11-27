@@ -16,9 +16,9 @@ This C program, with GNUPLOT, generates 3 graphs illustrating the performance of
    - Open the project in your preferred C IDE (e.g., Visual Studio Code).
    - Compile and run the main C file.
      ```bash
-      gcc -o programme.exe .\08_application.c .\calculs.c .\methodesTri.c
+     gcc -o programme.exe .\08_application.c .\calculs.c .\methodesTri.c
      ```bash
-      .\programme.exe
+     .\programme.exe
      
 4. **Result:**
    - Execute the 3 generated GNOPlot files to generate the 3 graphs
